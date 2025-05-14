@@ -1,6 +1,12 @@
 # 🍬 Diabetic Prediction using Deep Learning
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg) ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Made with Python](https://img.shields.io/badge/Made%20with-Python%203.8+-blue)
+![Deep Learning](https://img.shields.io/badge/Model-DNN-green)
+![Dataset](https://img.shields.io/badge/Dataset-Pima%20Indians-orange)
+![Task](https://img.shields.io/badge/Task-Binary%20Classification-yellowgreen)
+![Notebook](https://img.shields.io/badge/Notebook-Jupyter-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 A Deep Learning approach to predict the onset of diabetes based on diagnostic measurements!
 
